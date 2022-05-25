@@ -1,0 +1,73 @@
+[
+    {
+        
+        "name":"Milk",
+        "price":"1 Manat",
+        "amount":"100",
+        "id":"1"
+    },
+    {
+        "name":"Lays",
+        "price":"3 Manat",
+        "amount":"250",
+        "id":"2"
+        
+    },
+    {
+        "name":"Tea",
+        "price":"2.5 Manat",
+        "amount":"300",
+        "id":"3"
+        
+    },
+    {
+        
+        "name":"Toy",
+        "price":"2 Manat",
+        "amount":"50",
+        "id":"4"
+    },
+    {
+        "name":"Candy",
+        "price":"3 Manat",
+        "amount":"500",
+        "id":"5"
+        
+    },
+    {
+        "name":"Fruit",
+        "price":"1 Manat",
+        "amount":"344",
+        "id":"6"
+        
+    },
+    {
+        "name":"Vegetables",
+        "price":"3 Manat",
+        "amount":"400",
+        "id":"7"
+        
+    },
+    {
+        "name":"Tech",
+        "price":"400 Manat",
+        "amount":"60",
+        "id":"8"
+        
+    },
+    {
+        "name":"Chocolate",
+        "price":"2.5 Manat",
+        "amount":"100",
+        "id":"9"
+        
+    },
+    {
+        "name":"Water",
+        "price":"50 Qepik",
+        "amount":"600",
+        "id":"10"
+        
+    }
+
+]
